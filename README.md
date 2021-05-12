@@ -1,3 +1,3 @@
 # Flight-Itinarary-XML-Tests
-Flight itinarary data and stylesheet tests to display data
+Flight itinarary data in XML and stylesheet tests to display the data
 
